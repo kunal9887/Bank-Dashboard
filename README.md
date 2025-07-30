@@ -1,13 +1,13 @@
 # Bank-Dashboard
 1. Project Title
 
-🏦 Banking Insights Dashboard
+🏦 Banking Insights Dashboard - 
 A powerful Power BI dashboard delivering insights into customer demographics, loan disbursement trends, product engagement, and regional banking performance—designed to help banking professionals optimize operations and identify business opportunities.
 
-2. 📌 Short Description / Purpose
+2. 📌 Short Description / Purpose - 
 This Banking Insights Dashboard is an interactive reporting solution built to analyze and visualize data from a banking institution. It helps stakeholders uncover patterns in customer behavior, loan and credit card performance, and branch productivity, supporting strategic decision-making.
 
-3. 🛠️ Tech Stack
+3. 🛠️ Tech Stack - 
 The dashboard was built using the following tools and technologies:
 
 a.📊 Power BI Desktop – Primary platform for data visualization and report design.
@@ -20,11 +20,11 @@ d.📝 Data Modeling – Star schema modeling connecting customer, transaction, 
 
 e.📁 File Format – .pbix for Power BI file and .png for preview images/screenshots.
 
-4.📈 Data Source
+4.📈 Data Source -
 Source: Kaggle 
 The dataset includes anonymized data across customer demographics, job type, marital status, account balance, credit card ownership, loan information, and bank marketing campaign responses. It is structured to support financial analytics, customer segmentation, and product strategy use cases.
 
-5. ✨ Features / Highlights
+5. ✨ Features / Highlights - 
 • Business Problem
 Banks often struggle to derive real-time insights across multiple domains—such as customer demographics, loan performance, and product penetration. Manual reports lack visualization, making it hard to communicate actionable insights to decision-makers.
 
@@ -85,4 +85,4 @@ Risk Mitigation: Detect patterns in rejected loans or inactive accounts to impro
 
 6. Screenshots
 
-Dashboard Preview - https://github.com/kunal9887/Bank-Dashboard/blob/main/bankDashboard.png
+Dashboard Preview - (https://github.com/kunal9887/Bank-Dashboard/blob/main/bankDashboard.png)
