@@ -85,4 +85,4 @@ Risk Mitigation: Detect patterns in rejected loans or inactive accounts to impro
 
 6. Screenshots
 
-Dashboard Preview - (https://github.com/kunal9887/Bank-Dashboard/blob/main/bankDashboard.png)
+Dashboard Preview - https://github.com/kunal9887/Bank-Dashboard/blob/main/bankDashboard.png
