@@ -1,5 +1,6 @@
 # Bank-Dashboard
 1. Project Title
+
 🏦 Banking Insights Dashboard
 A powerful Power BI dashboard delivering insights into customer demographics, loan disbursement trends, product engagement, and regional banking performance—designed to help banking professionals optimize operations and identify business opportunities.
 
